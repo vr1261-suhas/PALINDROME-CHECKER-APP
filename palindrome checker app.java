@@ -1,5 +1,5 @@
 // UseCase1PalindromeCheckerApp.java
-public class UseCase1PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
     // Entry point of the Java application
     public static void main(String[] args) {
